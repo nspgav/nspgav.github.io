@@ -1,9 +1,10 @@
 # GAVIN NG
 ## Data Analytics, AI, Machine Learning
 
-[contact:gavin.ng@live.com](mailto:gavin.ng@live.com)
+##[contact:gavin.ng@live.com](mailto:gavin.ng@live.com)
 
-I am experience in creating stories data driven solutions, from building building data pipelines, to machine learning model deployment. 
+I am experience in creating stories data driven solutions including building data pipelines to machine learning model deployment. 
+
 
 You can use the [editor on GitHub](https://github.com/nspgav/analytics-financial-instrument/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
