@@ -1,4 +1,4 @@
-# Gavin NG
+# GAVIN NG
 ## Data Analytics, AI, Machine Learning
 
 [contact:gavin.ng@live.com](mailto:gavin.ng@live.com)
