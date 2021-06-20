@@ -1,7 +1,7 @@
 # GAVIN NG
 ## Data Analytics, AI, Machine Learning
 
-##[contact:gavin.ng@live.com](mailto:gavin.ng@live.com)
+## [contact:gavin.ng@live.com](mailto:gavin.ng@live.com)
 
 I am experience in creating stories data driven solutions including building data pipelines to machine learning model deployment. 
 
