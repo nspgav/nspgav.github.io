@@ -1,1 +1,23 @@
+title: <p align="center"> Gavin Ng </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/gavin321/">LinkedIn</a> |
+  <a href="https://public.tableau.com/profile/gavin.ng321/">Tableau</a> |
+  <a href="https://tinyurl.com/yc8l9h7y/">Power BI</a> |
+  <a href="https://github.com/nspgav">GitHub</a>
+  <a href="https://www.fairprice.com.sg/wps/portal/corporate/corpHome">NTUC Fairprice Group</a>
+  </p>
+  
+  <p align="justify">
+  I Lead Data Analytics practice at Internal Audit Department, NTUC Fairprice Group.
+  <br><br>
+  I am currently a Machine Learning Research Intern at Skim AI Technologies with a focus on NLP and Deep Learning research.
+  <br><br>
+  </p>
+  
 theme: jekyll-theme-minimal
+google_analytics:  # Google Analytics tracking ID
