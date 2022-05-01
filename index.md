@@ -1,4 +1,4 @@
-# Data Analytics, AI, Machine Learning
+# Data Analytics, Artifical Intelligence, Machine Learning
 
 ### [CONTACT: GAVIN.NG@LIVE.COM](mailto:gavin.ng@live.com)
 
